@@ -18,11 +18,17 @@ A Django-based project that integrates a LangChain agent for intelligent web scr
 
 langchain_agent/
 ├── langchain_agent/ # Django project
+
 ├── scraper/ # Django app
+
 ├── notebooks/ # Jupyter notebooks
+
 ├── manage.py
+
 ├── requirements.txt
+
 ├── .gitignore
+
 └── README.md
 
 ## 🛠️ Setup
