@@ -1,5 +1,8 @@
 # 🤖 langchain-agent
 
+> This project is developed in collaboration with [Mahmoud Touil](https://github.com/MahmoudTouil25) and [Malik Esseyah](https://github.com/MalekEssayeh).
+
+
 A Django-based project that integrates a LangChain agent for intelligent web scraping and data reasoning tasks. Includes a Jupyter notebook for prototyping and experimentation.
 
 ---
